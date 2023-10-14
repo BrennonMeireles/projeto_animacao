@@ -8,7 +8,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 611px; /*delimita a pocição da garrafa na janela*/
+    min-height: 100vh; /*delimita a pocição da garrafa na janela*/
     background-color: #121212;
 }
 
